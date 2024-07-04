@@ -1,0 +1,12 @@
+module.exports = {
+	COLOR: {
+		DARK_PURPLE: "#6F61C0",
+		LIGHT_PURPLE: "#A084E8",
+		LIGHT_GREEN: "#D5FFE4",
+		TURQUOISE: "#8BE8E5",
+		LIGHT_GREY: "#bebebe",
+		DARK_GREY: "#707070",
+		DARK_PURPLE_TRANSPARENT: "#6f61c096",
+		BLACK_TRANSPARENT: "#1d1d1d6f",
+	},
+};
